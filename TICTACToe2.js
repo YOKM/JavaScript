@@ -75,10 +75,7 @@ td[I].addEventListener("click", function() {
           {alert("O Won");
           exit;}
 		}
-
-    var arraycontainsturtles = (myarr.indexOf("turtles") > -1);
-
-});
+ });
 }
 
 </script>
